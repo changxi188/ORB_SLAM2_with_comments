@@ -43,7 +43,6 @@
 
 namespace ORB_SLAM2
 {
-
 //要用到的其他类的前视声明
 class Viewer;
 class FrameDrawer;
